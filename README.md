@@ -4,6 +4,10 @@
 
 - [Cyd Stumpel](https://cydstumpel.nl/)
 - [Ben Halpern](https://benhalpern.com/)
+- [Keita Yamada](https://p5aholic.me/)
+- [Sean Halpin](https://www.seanhalpin.design/)
+- [Maxime Bonhomme](https://bonhomme.lol/)
+- [Edward Hinrichsen](https://www.edwardh.io/)
 
 ### Animation
 
