@@ -8,6 +8,9 @@
 - [Sean Halpin](https://www.seanhalpin.design/)
 - [Maxime Bonhomme](https://bonhomme.lol/)
 - [Edward Hinrichsen](https://www.edwardh.io/)
+- [Lynn Fisher](https://lynnandtonic.com/)
+- [A single dev](https://a.singlediv.com/)
+- [Gift Egwuenu](https://www.giftegwuenu.dev/)
 
 ### Animation
 
