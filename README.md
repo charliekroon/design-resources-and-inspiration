@@ -2,6 +2,7 @@
 
 ### People and apps that inspire me
 - [Bruno Simon](https://bruno-simon.com/)
+- [Cassie](https://www.cassie.codes/)
 - [Cyd Stumpel](https://cydstumpel.nl/)
 - [Ben Halpern](https://benhalpern.com/)
 - [Keita Yamada](https://p5aholic.me/)
