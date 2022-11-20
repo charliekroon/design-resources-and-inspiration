@@ -1,7 +1,7 @@
 # A list of resources to spark your creative design brain
 
 ### People and apps that inspire me
-
+- [Bruno Simon](https://bruno-simon.com/)
 - [Cyd Stumpel](https://cydstumpel.nl/)
 - [Ben Halpern](https://benhalpern.com/)
 - [Keita Yamada](https://p5aholic.me/)
